@@ -2,7 +2,7 @@
 - (￣^￣)ゞ I'm interested in the development of highly specialized programs, as well as sites. While I am just starting out, I want to develop as efficiently as possible. 
 - ଘ(੭ˊ꒳ˋ)੭✧ I'm currently taking a python course on the stepik
 - (╯✧▽✧)╯ I want to cooperate with the same developers of sites and programs to help each other and develop together 
-- ☆⌒☆ You can contact me on instagram: @koug.yy, I hope to see your message, I rarely sit there
+
 
 <!---
 kougyy/kougyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
